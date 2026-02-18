@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "xmtp-docs": {
+      "command": "npx",
+      "args": ["-y", "github:xmtp/xmtp-docs-mcp"],
+      "type": "stdio"
+    }
+  }
+}
